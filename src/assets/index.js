@@ -31,6 +31,7 @@ import hoco from "./company/hoco.png";
 import mpt from "./company/mpt.png";
 import dat from "./company/dat.png";
 import mit from "./company/mit.png";
+import edirq from "./company/edirq.svg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -82,5 +83,7 @@ export {
   giftlink,
   itasset,
   pew,
-  rfm
+  rfm,
+  edirq
 };
+
