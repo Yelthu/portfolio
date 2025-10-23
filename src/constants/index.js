@@ -26,7 +26,7 @@ import {
   itasset,
   pew,
   rfm,
-  EDIRQ
+  edirq
 } from "../assets";
 
 export const navLinks = [
@@ -122,7 +122,7 @@ const experiences = [
   {
     title: "Senior Backend Engineer",
     company_name: "EDIRQ",
-    icon: EDIRQ,
+    icon: edirq,
     iconBg: "#E6DEDD",
     date: "July 2024 - Current",
     points: [
