@@ -177,8 +177,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      `I had the pleasure of working alongside Ye Lin Thu as a full-stack developer, and I can confidently say he is one of the most reliable and skilled engineers I’ve worked with. He has a strong command of Node.js and modern web technologies, and they consistently deliver clean, efficient, and scalable solutions.
-What stood out most to me was not just their technical ability, but also their collaborative mindset. Whether it was brainstorming architecture decisions, reviewing code, or jumping in to help unblock teammates, Ye Lin Thu always contributed with clarity and professionalism. They balance speed with quality, and he is never afraid to dive into complex problems until they’re solved.
+      `I can confidently say he is one of the most reliable and skilled engineers I’ve worked with. He has a strong command of Node.js and modern web technologies, and they consistently deliver clean, efficient, and scalable solutions.
 Any team would be lucky to have Ye Lin Thu as part of their engineering group—I highly recommend them.`,
     name: "Kaung Myat Han",
     designation: "Full Stack Developer | AWS Certified",
