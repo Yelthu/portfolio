@@ -126,13 +126,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "July 2024 - Current",
     points: [
-      "Led backend development, implementing over 70% of core APIs for the frontend team,
-enabling timely delivery of key product features for web and mobile platforms.",
-      "Optimized existing APIs and database queries, resulting in a 20% improvement in
-system performance and reduced latency across high-traffic endpoints.",
-      "Mentored junior developers by providing technical guidance, conducting code
-reviews, and promoting clean coding practices, which improved team productivity
-and code quality.",
+     `Led backend development, implementing over 70% of core APIs for the frontend team, enabling timely delivery of key product features for web and mobile platforms.`,
+      `Optimized existing APIs and database queries, resulting in a 20% improvement in system performance and reduced latency across high-traffic endpoints.`,
+      `Mentored junior developers by providing technical guidance, conducting code reviews, and promoting clean coding practices, which improved team productivity and code quality.`,
     ],
   },
   {
