@@ -15,8 +15,8 @@ const Hero = () => {
           <h1 className={`${styles.heroHeadText} text-white`}>Hi, I&apos;m <span className='text-[#915eff]'>Ye Lin Thu</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             {/* I develop full-stack applications, user <br className='sm:block hidden' /> interfaces and web applications. */}
-            A full-stack software developer with over 5 years of experience, including
-            over two years of hands-on work with the MERN Stack, develop full-stack applications.
+            With 10 years of software development experience, including 5+ years as a senior backend engineer and technical leader, I specialise in backend development with Node.js
+to build scalable, efficient systems.
           </p>
         </div>
       </div>
