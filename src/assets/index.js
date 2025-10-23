@@ -42,6 +42,8 @@ import giftlink from "./giftlink.png";
 import itasset from "./itasset.png";
 import pew from "./pew.jpeg";
 import rfm from "./rfm.jpeg";
+import kmh from "./kmh.png";
+import now from "./now.jpeg";
 
 export {
   logo,
@@ -84,6 +86,9 @@ export {
   itasset,
   pew,
   rfm,
-  edirq
+  edirq,
+  kmh,
+  now
 };
+
 
