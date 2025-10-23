@@ -45,8 +45,8 @@ export const navLinks = [
 
 const services = [
   {
-    title: "MERN Stack Developer",
-    icon: web,
+    title: "Senior Backend Engineer",
+    icon: backend,
   },
   {
     title: "Senior Full Stack Engineer",
@@ -119,8 +119,8 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full Stack MERN Stack Developer",
-    company_name: "HOCO TELECITY MYANMAR",
+    title: "Senior Backend Engineer",
+    company_name: "EDIRQ",
     icon: hoco,
     iconBg: "#E6DEDD",
     date: "June 2022 - August 2024",
