@@ -26,7 +26,9 @@ import {
   itasset,
   pew,
   rfm,
-  edirq
+  edirq,
+  kmh,
+  now
 } from "../assets";
 
 export const navLinks = [
@@ -181,7 +183,16 @@ Any team would be lucky to have Ye Lin Thu as part of their engineering group—
     name: "Kaung Myat Han",
     designation: "Full Stack Developer | AWS Certified",
     company: "Fly Fairly 💜✈️",
-    image: "https://www.linkedin.com/in/kaungmyathan22/overlay/photo/",
+    image: kmh,
+  },
+  {
+    testimonial:
+      `One of his standout qualities is his speed and efficiency—he consistently meets deadlines, whether it’s for back-end development or other tasks and DevOps.
+       I highly recommend him to any team looking for a skilled, fast learner, and dependable developer.`,
+    name: "Nay Oo Lwin",
+    designation: "Senior Back End Developer",
+    company: "Origin Business Solutions",
+    image: now,
   },
   {
     testimonial:
