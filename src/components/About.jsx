@@ -27,8 +27,8 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
       <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-        I&apos;m a skilled full-stack developer with experience in TypeScript and JavaScript and expertise in frameworks like React, NodeJs, ExpressJs, and MongoDB.
-        I&apos;m a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems, leveraging DevOps skills including CI/CD pipelines.
+        I&apos;m a skilled backend developer with experience in TypeScript and JavaScript and expertise in frameworks like NodeJS, ExpressJS, NESTJS, BunJS and MongoDB, PostgreSQL by integrating with REST API.
+        I&apos;m a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems, leveraging DevOps skills including CI/CD pipelines and Docker, Terraform, Testing and AWS.
         I am passionate about learning new technologies and continuously improving my skills. Demonstrated the ability to work both independently and as part of a dynamic team and deliver high-quality solutions.
         Let&apos;s work together to bring your ideas to life!
       </motion.p>
