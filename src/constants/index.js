@@ -25,7 +25,8 @@ import {
   giftlink,
   itasset,
   pew,
-  rfm
+  rfm,
+  EDIRQ
 } from "../assets";
 
 export const navLinks = [
@@ -121,14 +122,17 @@ const experiences = [
   {
     title: "Senior Backend Engineer",
     company_name: "EDIRQ",
-    icon: hoco,
+    icon: EDIRQ,
     iconBg: "#E6DEDD",
-    date: "June 2022 - August 2024",
+    date: "July 2024 - Current",
     points: [
-      "Developed full-stack applications using the MERN stack, applying best practices in JavaScript, React, Node.js, and MongoDB for building scalable and efficient web solutions.",
-      "Collaborated with cross-functional teams to gather requirements, design systems,and implement solutions.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Led and completed multiple capstone projects and delivering solutions that met client specifications and timelines.",
+      "Led backend development, implementing over 70% of core APIs for the frontend team,
+enabling timely delivery of key product features for web and mobile platforms.",
+      "Optimized existing APIs and database queries, resulting in a 20% improvement in
+system performance and reduced latency across high-traffic endpoints.",
+      "Mentored junior developers by providing technical guidance, conducting code
+reviews, and promoting clean coding practices, which improved team productivity
+and code quality.",
     ],
   },
   {
@@ -179,7 +183,7 @@ const testimonials = [
     name: "Theingi Win",
     designation: "Regional Manager",
     company: "HOCO TELECITY",
-    // image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
@@ -187,15 +191,15 @@ const testimonials = [
     name: "Nyo Nyo Seint",
     designation: "Department General Manager - CTO",
     company: "MPT-KSGM",
-    // image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "Working with Mr. Ye Lin Thu has been an incredible experience.His technical expertise and problem-solving skills are truly impressive.He consistently brings creative solutions to complex problems, and his approach to full-stack development, especially in backend integration and automation, has been invaluable to our team",
+      "Working with Mr. Ye Lin Thu has been an incredible experience. His technical expertise and problem-solving skills are truly impressive.He consistently brings creative solutions to complex problems, and his approach to full-stack development, especially in backend integration and automation, has been invaluable to our team",
     name: "CA Team",
     designation: "CA Teams - CTO",
     company: "MPT-KSGM",
-    // image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
